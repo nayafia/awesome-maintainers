@@ -1,5 +1,5 @@
 # Awesome Maintainers
-Talks, blog posts, and interviews about the experience of being an open source maintainer.
+> Talks, blog posts, and interviews about the experience of being an open source maintainer
 
 * [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli)
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
@@ -54,7 +54,20 @@ Talks, blog posts, and interviews about the experience of being an open source m
   * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
 
 ## Contributing
-TODO
+Additional suggestions are welcomed! Please [open a PR](https://github.com/nayafia/awesome-maintainers/pulls).
+
+Criteria:
+* Content is about the experience of being an open source maintainer
+* Content comes from the maintainer themselves
+
+This list is sorted alphabetically by maintainer username. Sub-bullets are also sorted alphabetically by title. The format is as follows:
+
+```
+[USERNAME](https://github.com/USERNAME), [PROJECT NAME](https://github.com/PROJECT-URL)
+  * "TITLE" ([video/slides/post/interview](URL))
+```
+
+If they don't have a GitHub profile, or their project isn't on GitHub, link to the equivalent elsewhere. Links should point to their developer profile and repository over personal or project websites.
 
 ## License and attribution
 This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! [@nayafia](http://twitter.com/nayafia) But you are in no way required to do so.)
