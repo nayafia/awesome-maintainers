@@ -1,80 +1,57 @@
 # Awesome Maintainers
-*Talks, blog posts, interviews, etc about the experience of being an open source maintainer*
+Talks, blog posts, and interviews about the experience of being an open source maintainer.
 
-### "Maintainer Stories: Amjith Ramanujam"
-* Author: @amjith, pgcli
-* Video: https://www.youtube.com/watch?v=paS09pRV8bY
-
-### "Maintaining a Popular Project and Managing Burnout"
-* Author: @boneskull, Mocha
-* Interview: https://changelog.com/rfc/15
-
-### "The give and take of open source"
-* Author: @brettcannon, Python
-* Video: https://www.youtube.com/watch?v=y19s6vPpGXA
-
-### "My condolences, you're now the maintainer of a popular open source project"
-* Author: @danielbachhuber, wp-cli
-* Video: https://www.youtube.com/watch?v=ll_lmDZUD4o
-* Post: https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/
-
-### "Maintainers Don't Scale"
-* Author: @danvet, Linux kernel
-* Video: https://www.youtube.com/watch?v=KJ9Y0midtW4
-* Slides: http://blog.ffwll.ch/slides/lca-2017.pdf
-* Post: http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html
-
-### "Maintainer Stories: Eric Holscher"
-* Author: @ericholscher, Read the Docs
-* Video: https://www.youtube.com/watch?v=us_3IGG6leM&t=1s
-
-### "What is open source and why do I feel so guilty?"
-* Author: @fat, Bootstrap
-* Video: https://www.youtube.com/watch?v=UIDb6VBO9os
-* Slides: http://fat.github.io/slides-os-guilt/
-
-### "Maintaining Open Source Projects: Dan Abramov"
-* Author: @gaearon, React
-* Interview: https://www.youtube.com/watch?v=-QbyRas7gUA
-
-### "Maintainer, heal thyself"
-* Author: @hzoo, Babel
-* Video: https://www.youtube.com/watch?v=iFgSvLUzQSU
-* Slides: http://henryzoo.com/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0
-
-### "Maintaining an OSS project"
-* Author: @hzoo, Babel
-* Video: https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE 
-* Slides: http://henryzoo.com/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0
-
-### "Walking Away From Your Open Source Project: John Resig"
-* Author: @jeresig, jQuery
-* Interview: https://www.youtube.com/watch?v=K9HGec2RA-Q
-
-### "Maintainer Stories: Katrina Owen"
-* Author: @kytrinyx, Exercism
-* Video: https://www.youtube.com/watch?v=MjKwvdF7SrA
-
-### "The Open Source Contributor Funnel"
-* Author: @mikemcquaid, Homebrew
-* Video: https://www.youtube.com/watch?v=OsOZpF6LFcw
-* Slides: http://mikemcquaid.com/talks/the-open-source-contributor-funnel/
-
-### "Maintaining Your Sanity While Maintaining Your Open Source App"
-* Author: @mlavin, Django
-* Video: https://www.youtube.com/watch?v=xgWFTrXn0_U
-
-### "What it feels like to be an open-source maintainer"
-* Author: @nolanlawson, PouchDB 
-* Post: https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/
-
-### "Behind the Scenes of Maintaining an Open Source Project"
-* Author: @Seldaek, Composer
-* Video: https://www.youtube.com/watch?v=Ci_I0ATr748
-
-### "Crowdfunding Open Source (Vue.js)"
-* Author: @yyx990803, Vue.js
-* Interview: https://changelog.com/rfc/12
+* [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli)
+  * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
+* [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs)
+  * "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
+* [@boneskull](https://github.com/boneskull), [Mocha](https://github.com/mochajs/mocha)
+  * "Maintaining a Popular Project and Managing Burnout" ([interview](https://changelog.com/rfc/15))
+* [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
+  * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
+  * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
+* [@danielbachhuber](https://github.com/danielbachhuber), [wp-cli](https://github.com/wp-cli/wp-cli)
+  * "Experiments and the Economics of Open Source" ([interview](https://changelog.com/rfc/17))
+  * "My condolences, you're now the maintainer of a popular open source project" ([video](https://www.youtube.com/watch?v=ll_lmDZUD4o), [post](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/))
+* [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
+  * "Maintainers Don't Scale" ([video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))
+* [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
+  * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
+* [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
+  * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/)) 
+* [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
+  * "Maintainer Stories: Russell Keith-Magee" ([interview](https://github.com/open-source/stories/freakboy3742))
+* [@gaearon](https://github.com/gaearon), [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux)
+  * Maintaining Open Source Projects: Dan Abramov" ([interview](https://www.youtube.com/watch?v=-QbyRas7gUA))
+* [@hzoo](https://github.com/hzoo), [Babel](https://github.com/babel/babel)
+  * "Maintainer, heal thyself" ([video](https://www.youtube.com/watch?v=iFgSvLUzQSU), [slides](http://henryzoo.com/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0))
+  * "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
+  * "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE), [slides](http://henryzoo.com/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
+* [@jeresig](https://github.com/jeresig), [jQuery](https://github.com/jquery/jquery)
+  * "Walking Away From Your Open Source Project: John Resig" ([video](https://www.youtube.com/watch?v=K9HGec2RA-Q))
+* [@jessfraz](https://github.com/jessfraz), [Kubernetes](https://github.com/kubernetes)
+  * "Maintainer Stories: Jess Frazelle ([interview](https://github.com/open-source/stories/jessfraz))
+* [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops)
+  * "Maintainer Stories: Kris Nova" ([interview](https://github.com/open-source/stories/kris-nova))
+* [@kytrinyx](https://github.com/kytrinyx), [Exercism](https://github.com/exercism)
+  * "Maintainer Stories: Katrina Owen" ([video](https://www.youtube.com/watch?v=MjKwvdF7SrA))
+* [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js)
+  * "Design, Software, and Open Source" ([interview](https://changelog.com/rfc/19))
+* [@mikemcquaid](https://github.com/mikemcquaid), [Homebrew](https://github.com/homebrew)
+  * "The Open Source Contributor Funnel" ([video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
+* [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
+  * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
+* [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb) 
+  * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
+* [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer)
+  * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
+* [@tgamblin](https://github.com/tgamblin), [spack](https://github.com/spack/spack)
+  * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
+* [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
+  * "Maintainer Stories: Tim Graham" ([interview](https://github.com/open-source/stories/timgraham))
+* [@yyx990803](https://github.com/yyx990803), [Vue.js](https://github.com/vuejs)
+  * "Crowdfunding Open Source (Vue.js)" ([interview](https://changelog.com/rfc/12))
+  * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
 
 ## Contributing
 TODO
