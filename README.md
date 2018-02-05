@@ -79,5 +79,5 @@
 ## Contributing
 TODO
 
-## License
-TODO
+## License and attribution
+This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! [@nayafia](http://twitter.com/nayafia) But you are in no way required to do so.)
