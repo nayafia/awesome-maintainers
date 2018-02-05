@@ -22,7 +22,7 @@
 * [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
   * "Maintainer Stories: Russell Keith-Magee" ([interview](https://github.com/open-source/stories/freakboy3742))
 * [@gaearon](https://github.com/gaearon), [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux)
-  * Maintaining Open Source Projects: Dan Abramov" ([interview](https://www.youtube.com/watch?v=-QbyRas7gUA))
+  * "Maintaining Open Source Projects: Dan Abramov" ([interview](https://www.youtube.com/watch?v=-QbyRas7gUA))
 * [@hzoo](https://github.com/hzoo), [Babel](https://github.com/babel/babel)
   * "Maintainer, heal thyself" ([video](https://www.youtube.com/watch?v=iFgSvLUzQSU), [slides](http://henryzoo.com/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0))
   * "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
