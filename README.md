@@ -28,7 +28,7 @@
   * "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
   * "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE), [slides](http://henryzoo.com/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
 * [@jeresig](https://github.com/jeresig), [jQuery](https://github.com/jquery/jquery)
-  * "Walking Away From Your Open Source Project: John Resig" ([video](https://www.youtube.com/watch?v=K9HGec2RA-Q))
+  * "Walking Away From Your Open Source Project: John Resig" ([interview](https://www.youtube.com/watch?v=K9HGec2RA-Q))
 * [@jessfraz](https://github.com/jessfraz), [Kubernetes](https://github.com/kubernetes)
   * "Maintainer Stories: Jess Frazelle ([interview](https://github.com/open-source/stories/jessfraz))
 * [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops)
