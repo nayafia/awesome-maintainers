@@ -37,7 +37,7 @@
   * "Maintainer Stories: Katrina Owen" ([video](https://www.youtube.com/watch?v=MjKwvdF7SrA))
 * [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js)
   * "Design, Software, and Open Source" ([interview](https://changelog.com/rfc/19))
-* [@mikemcquaid](https://github.com/mikemcquaid), [Homebrew](https://github.com/homebrew)
+* [@MikeMcQuaid](https://github.com/mikemcquaid), [Homebrew](https://github.com/homebrew)
   * "The Open Source Contributor Funnel" ([video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
