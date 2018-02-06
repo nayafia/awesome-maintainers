@@ -33,6 +33,7 @@
   * "Maintainer Stories: Jess Frazelle ([interview](https://github.com/open-source/stories/jessfraz))
 * [@kentcdodds](https://github.com/kentcdodds), [various](https://github.com/kentcdodds)
   * "The First Pull Request" ([video](https://www.youtube.com/watch?v=HjgZQeMrw6c&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/1st-pr))
+  * "First-time Contributors and Maintainer Balance" ([podcast](https://changelog.com/podcast/246))
   * "Managing an Open Source Project" ([video](https://www.youtube.com/watch?v=jKI1Kj5VXqE&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/manage-oss))
   * "Open Sourcing Your Stuff" ([video](https://www.youtube.com/watch?v=Zlu3QvuwruY&index=28&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/open-source-your-stuff))
 * [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops)
