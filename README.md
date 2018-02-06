@@ -27,6 +27,8 @@
   * "Maintainer, heal thyself" ([video](https://www.youtube.com/watch?v=iFgSvLUzQSU), [slides](http://henryzoo.com/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0))
   * "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
   * "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE), [slides](http://henryzoo.com/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
+* [@janl](https://github.com/janl), [CouchDB](https://github.com/apache/couchdb)
+  * "Sustainable Open Source: The Maintainers Perspective or: How I Learned to Stop Caring and Love Open Source" ([post](http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html))
 * [@jeresig](https://github.com/jeresig), [jQuery](https://github.com/jquery/jquery)
   * "Walking Away From Your Open Source Project: John Resig" ([interview](https://www.youtube.com/watch?v=K9HGec2RA-Q))
 * [@jessfraz](https://github.com/jessfraz), [Kubernetes](https://github.com/kubernetes)
