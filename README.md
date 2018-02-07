@@ -15,6 +15,7 @@
   * "My condolences, you're now the maintainer of a popular open source project" ([video](https://www.youtube.com/watch?v=ll_lmDZUD4o), [post](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/))
 * [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
   * "Maintainers Don't Scale" ([video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))
+  * "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
 * [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
   * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
 * [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
