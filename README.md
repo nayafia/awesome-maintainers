@@ -55,6 +55,8 @@
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
 * [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer)
   * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
+* [@stewartsmith](https://github.com/stewartsmith), [Skiboot](https://github.com/open-power/skiboot)
+  * "Organizational Change: Challenges in shipping open source firmware" ([video](https://www.youtube.com/watch?v=JngZkC-TVHc))
 * [@tgamblin](https://github.com/tgamblin), [Spack](https://github.com/spack/spack)
   * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
 * [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
