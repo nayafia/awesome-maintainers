@@ -58,7 +58,7 @@
   * "Saving Sprockets - What happens when a maintainer leaves" ([video](https://www.youtube.com/watch?v=qxaE8yblHPk), [post with transcript](https://www.schneems.com/2016/05/31/saving-sprockets.html))
 * [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer)
   * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
-* [@steveklabnik[(https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails)
+* [@steveklabnik](https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails)
   * "How to be an open source gardener" ([post](http://words.steveklabnik.com/how-to-be-an-open-source-gardener))
 * [@stewartsmith](https://github.com/stewartsmith), [Skiboot](https://github.com/open-power/skiboot)
   * "Organizational Change: Challenges in shipping open source firmware" ([video](https://www.youtube.com/watch?v=JngZkC-TVHc))
