@@ -18,6 +18,7 @@
   * "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
 * [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
   * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
+  * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
 * [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/)) 
 * [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
