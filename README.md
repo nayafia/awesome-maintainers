@@ -54,6 +54,8 @@
   * "Walking the Talk: Adopting and Adapting Sustainable Scientific Software Development processes in a Small Biology Lab" ([paper](http://dx.doi.org/10.5334/jors.35))
 * [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb) 
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
+* [@Schneems](https://github.com/Schneems), [Sprockets](https://github.com/rails/sprockets), [CodeTriage](https://www.codetriage.com)
+  * "Saving Sprockets - What happens when a maintainer leaves" ([video](https://www.youtube.com/watch?v=qxaE8yblHPk), [post with transcript](https://www.schneems.com/2016/05/31/saving-sprockets.html))
 * [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer)
   * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
 * [@steveklabnik[(https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails)
