@@ -37,6 +37,8 @@
   * "Walking Away From Your Open Source Project: John Resig" ([interview](https://www.youtube.com/watch?v=K9HGec2RA-Q))
 * [@jessfraz](https://github.com/jessfraz), [Kubernetes](https://github.com/kubernetes)
   * "Maintainer Stories: Jess Frazelle ([interview](https://github.com/open-source/stories/jessfraz))
+* [@jodosha](https://github.com/jodosha), [Hanami](https://github.com/hanami)
+  * "Lessons Learned While Building Hanami" ([video](https://www.youtube.com/watch?v=0RyitUKfUFE), [slides](https://speakerdeck.com/jodosha/lessons-learned-while-building-hanami))
 * [@kentcdodds](https://github.com/kentcdodds), [various](https://github.com/kentcdodds)
   * "The First Pull Request" ([video](https://www.youtube.com/watch?v=HjgZQeMrw6c&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/1st-pr))
   * "First-time Contributors and Maintainer Balance" ([podcast](https://changelog.com/podcast/246))
