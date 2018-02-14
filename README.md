@@ -49,6 +49,8 @@
   * "First-time Contributors and Maintainer Balance" ([podcast](https://changelog.com/podcast/246))
   * "Managing an Open Source Project" ([video](https://www.youtube.com/watch?v=jKI1Kj5VXqE&index=23&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/manage-oss))
   * "Open Sourcing Your Stuff" ([video](https://www.youtube.com/watch?v=Zlu3QvuwruY&index=28&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/open-source-your-stuff))
+* [@kennethreitz](https://github.com/kennethreitz), [requests](https://github.com/requests/requests)
+  * "The Reality of Developer Burnout" ([post](https://www.kennethreitz.org/essays/the-reality-of-developer-burnout))
 * [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops)
   * "Maintainer Stories: Kris Nova" ([interview](https://github.com/open-source/stories/kris-nova))
 * [@kytrinyx](https://github.com/kytrinyx), [Exercism](https://github.com/exercism)
