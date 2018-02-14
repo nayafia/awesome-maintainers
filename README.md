@@ -10,6 +10,8 @@
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
   * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
+* [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
+  * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))  
 * [@danielbachhuber](https://github.com/danielbachhuber), [wp-cli](https://github.com/wp-cli/wp-cli)
   * "Experiments and the Economics of Open Source" ([interview](https://changelog.com/rfc/17))
   * "My condolences, you're now the maintainer of a popular open source project" ([video](https://www.youtube.com/watch?v=ll_lmDZUD4o), [post](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/))
