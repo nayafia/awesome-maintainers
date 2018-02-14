@@ -21,7 +21,7 @@
   * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
 * [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
-* [@FooBarWidget](https://github.com/FooBarWidget), [Phusion Passenger](https://github.com/phusion)
+* [@FooBarWidget](https://github.com/FooBarWidget) & [@prototype](https://github.com/prototype), [Phusion Passenger](https://github.com/phusion)
   * "Bootstrapping a business around open source" ([video](https://youtu.be/uHaMpLyMOL0))
 * [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
   * "Maintainer Stories: Russell Keith-Magee" ([interview](https://github.com/open-source/stories/freakboy3742))
