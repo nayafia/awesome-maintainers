@@ -53,6 +53,8 @@
   * "Open Sourcing Your Stuff" ([video](https://www.youtube.com/watch?v=Zlu3QvuwruY&index=28&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf), [slides](http://slides.com/kentcdodds/open-source-your-stuff))
 * [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops)
   * "Maintainer Stories: Kris Nova" ([interview](https://github.com/open-source/stories/kris-nova))
+* [@Krzysztof-Cieslak](https://github.com/Krzysztof-Cieslak), [Ionide](https://github.com/ionide)
+  * "OSS and Community: The Story" ([post](http://kcieslak.io/OSS-The-Story))
 * [@kytrinyx](https://github.com/kytrinyx), [Exercism](https://github.com/exercism)
   * "Maintainer Stories: Katrina Owen" ([video](https://www.youtube.com/watch?v=MjKwvdF7SrA))
 * [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js)
