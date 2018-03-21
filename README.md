@@ -26,6 +26,8 @@
   * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
 * [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
+* [@fijal](https://github.com/fijal), [PyPy](https://github.com/pypy/)
+  * "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 * [@FooBarWidget](https://github.com/FooBarWidget) & [@prototype](https://github.com/prototype), [Phusion Passenger](https://github.com/phusion)
   * "Bootstrapping a business around open source" ([video](https://youtu.be/uHaMpLyMOL0))
 * [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
