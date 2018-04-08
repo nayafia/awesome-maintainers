@@ -5,6 +5,8 @@
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
 * [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs)
   * "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
+* [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya)
+  * "Building Open Source Communities" ([video](http://www.ustream.tv/recorded/102858222))
 * [@boneskull](https://github.com/boneskull), [Mocha](https://github.com/mochajs/mocha)
   * "Maintaining a Popular Project and Managing Burnout" ([interview](https://changelog.com/rfc/15))
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
