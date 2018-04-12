@@ -1,4 +1,4 @@
-# Awesome Maintainers
+# Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Talks, blog posts, and interviews about the experience of being an open source maintainer
 
 * [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli)
