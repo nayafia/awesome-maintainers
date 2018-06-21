@@ -69,6 +69,8 @@
   * "The Open Source Contributor Funnel" ([video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
+* [@mxcl](https://github.com/mxcl), [Homebrew](https://github.com/homebrew)
+  * "Making Homebrew: The Genesis and Growth of a Global Open Source Project" ([video](https://www.youtube.com/watch?v=Q81q0LilL1s))
 * [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb)
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
 * [@Schneems](https://github.com/Schneems), [Sprockets](https://github.com/rails/sprockets), [CodeTriage](https://www.codetriage.com)
