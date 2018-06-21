@@ -90,22 +90,10 @@
   * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
 
 ## Contributing
-Additional suggestions are welcomed! Please [open a PR](https://github.com/nayafia/awesome-maintainers/pulls).
 
-Criteria:
-* Content is about the experience of being an open source maintainer
-* Content comes from the maintainer themselves
+Additional suggestions are welcomed! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-This list is sorted alphabetically by maintainer username. Sub-bullets are also sorted alphabetically by title. The format is as follows:
-
-```
-[USERNAME](https://github.com/USERNAME), [PROJECT NAME](https://github.com/PROJECT-URL)
-  * "TITLE" ([video/slides/post/interview](URL))
-```
-
-If they don't have a GitHub profile, or their project isn't on GitHub, link to the equivalent elsewhere. Links should point to their developer profile and repository over personal or project websites.
-
-(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately!)
+(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately.)
 
 ## License and attribution
 This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! [@nayafia](http://twitter.com/nayafia) But you are in no way required to do so.)
