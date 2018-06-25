@@ -1,6 +1,8 @@
 # Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Talks, blog posts, and interviews about the experience of being an open source maintainer
 
+* [@alyssais](https://github.com/alyssais), [Homebrew](https://github.com/Homebrew/brew)
+  * "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
 * [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli)
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
 * [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs)
@@ -32,6 +34,7 @@
   * "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 * [@FooBarWidget](https://github.com/FooBarWidget) & [@prototype](https://github.com/prototype), [Phusion Passenger](https://github.com/phusion)
   * "Bootstrapping a business around open source" ([video](https://youtu.be/uHaMpLyMOL0))
+  * "Maintaining Passenger" ([video](https://vimeo.com/276832741))
 * [@freakboy3742](https://github.com/freakboy3742), [PyBee](https://github.com/pybee)
   * "Maintainer Stories: Russell Keith-Magee" ([interview](https://github.com/open-source/stories/freakboy3742))
 * [@gaearon](https://github.com/gaearon), [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux)
@@ -83,6 +86,8 @@
   * "How to be an open source gardener" ([post](http://words.steveklabnik.com/how-to-be-an-open-source-gardener))
 * [@stewartsmith](https://github.com/stewartsmith), [Skiboot](https://github.com/open-power/skiboot)
   * "Organizational Change: Challenges in shipping open source firmware" ([video](https://www.youtube.com/watch?v=JngZkC-TVHc))
+* [@tbrisker](https://github.com/tbrisker), [Foreman](https://github.com/theforeman/foreman)
+  * "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 * [@tgamblin](https://github.com/tgamblin), [Spack](https://github.com/spack/spack)
   * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
 * [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
