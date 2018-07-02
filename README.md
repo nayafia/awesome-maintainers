@@ -10,7 +10,7 @@
 * [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya)
   * "Building Open Source Communities" ([video](http://www.ustream.tv/recorded/102858222))
 * [@bbatsov](https://github.com/bbatsov), [Rubocop](https://github.com/rubocop-hq/rubocop)
-  * "Interview with Bozhidar Batsov: The Creator’s Thoughts on RuboCop and the Ruby Style Guide", ([post](https://blog.sideci.com/interview-with-bozhidar-batsov-99b049b6fd6a))
+  * "Interview with Bozhidar Batsov: The Creator’s Thoughts on RuboCop and the Ruby Style Guide" ([post](https://blog.sideci.com/interview-with-bozhidar-batsov-99b049b6fd6a))
 * [@boneskull](https://github.com/boneskull), [Mocha](https://github.com/mochajs/mocha)
   * "Maintaining a Popular Project and Managing Burnout" ([interview](https://changelog.com/rfc/15))
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
