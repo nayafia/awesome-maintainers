@@ -85,8 +85,6 @@
   * "Saving Sprockets - What happens when a maintainer leaves" ([video](https://www.youtube.com/watch?v=qxaE8yblHPk), [post with transcript](https://www.schneems.com/2016/05/31/saving-sprockets.html))
 * [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer)
   * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
-* [@shazow](https://github.com/shazow), [urllib3](https://github.com/shazow/urllib3)
-  * "How to hand over an Open Source project to a new maintainer" ([post](https://medium.com/@shazow/how-to-hand-over-an-open-source-project-to-a-new-maintainer-db433aaf57e8))
 * [@sindresorhus](https://github.com/sindresorhus), [AVA](https://github.com/avajs/ava), [awesome](https://github.com/sindresorhus/awesome)
   * "Between the Wires: An interview with open source developer Sindre Sorhus" ([interview](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d))
 * [@steveklabnik](https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails)
