@@ -7,6 +7,8 @@
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
 * [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs)
   * "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
+* [@arturi](https://github.com/arturi), [Uppy](https://github.com/transloadit/uppy/)
+  * "Maintaining Uppy" ([interview](https://survivejs.com/blog/uppy-interview/))  
 * [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya)
   * "Building Open Source Communities" ([video](http://www.ustream.tv/recorded/102858222))
 * [@bbatsov](https://github.com/bbatsov), [Rubocop](https://github.com/rubocop-hq/rubocop)
