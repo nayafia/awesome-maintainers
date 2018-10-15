@@ -4,7 +4,7 @@ Additional suggestions are welcomed! Please [open a PR](https://github.com/nayaf
 
 Criteria:
 * Content is about the experience of being an open source maintainer
-* Content comes from the maintainer themselves
+* The author of the content is describing their own experience
 
 This list is sorted alphabetically by maintainer username. Sub-bullets are also sorted alphabetically by title. The format is as follows:
 
