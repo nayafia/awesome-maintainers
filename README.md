@@ -35,6 +35,8 @@
   * "On Storytelling" ([video](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling))
 * [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/)
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
+* [@fatih](https://github.com/fatih), [vim-go](https://github.com/fatih/vim-go)
+  * "Taking an indefinite sabbatical from my projects" ([post](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/))
 * [@fijal](https://github.com/fijal), [PyPy](https://github.com/pypy/)
   * "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 * [@FooBarWidget](https://github.com/FooBarWidget) & [@prototype](https://github.com/prototype), [Phusion Passenger](https://github.com/phusion)
