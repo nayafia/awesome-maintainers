@@ -107,6 +107,8 @@
   * "Maintainer Stories: Tim Graham" ([interview](https://github.com/open-source/stories/timgraham))
 * [@vjeux](https://github.com/vjeux), [React Native](https://github.com/facebook/react-native), [Prettier](https://github.com/prettier/prettier)
   * "Being Successful at Open Source" ([video](https://www.youtube.com/watch?v=nRF0OVQL9Nw))
+* [@withoutboats](https://github.com/withoutboats), [Rust](https://github.com/rust-lang)
+  * "Organizational Debt" ([post](https://boats.gitlab.io/blog/post/rust-2019/))
 * [@yyx990803](https://github.com/yyx990803), [Vue.js](https://github.com/vuejs)
   * "Crowdfunding Open Source (Vue.js)" ([interview](https://changelog.com/rfc/12))
   * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
