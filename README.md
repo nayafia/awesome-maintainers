@@ -99,6 +99,8 @@
   * "How to be an open source gardener" ([post](http://words.steveklabnik.com/how-to-be-an-open-source-gardener))
 * [@stewartsmith](https://github.com/stewartsmith), [Skiboot](https://github.com/open-power/skiboot)
   * "Organizational Change: Challenges in shipping open source firmware" ([video](https://www.youtube.com/watch?v=JngZkC-TVHc))
+* [@stuarthalloway](https://github.com/stuarthalloway), [Clojure](https://github.com/clojure/clojure)
+  * "Stewardship Made Practical" ([video](https://www.youtube.com/watch?v=_sEOXNmzv4g))
 * [@tbrisker](https://github.com/tbrisker), [Foreman](https://github.com/theforeman/foreman)
   * "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 * [@tgamblin](https://github.com/tgamblin), [Spack](https://github.com/spack/spack)
