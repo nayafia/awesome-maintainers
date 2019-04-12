@@ -84,6 +84,8 @@
   * "Maintainer Stories: Katrina Owen" ([video](https://www.youtube.com/watch?v=MjKwvdF7SrA))
 * [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js)
   * "Design, Software, and Open Source" ([interview](https://changelog.com/rfc/19))
+* [@mikeal](https://github.com/mikeal), [request](https://github.com/request/request/)
+  * "Request's Past, Present and Future" ([post](https://github.com/request/request/issues/3142))
 * [@MikeMcQuaid](https://github.com/MikeMcQuaid), [Homebrew](https://github.com/Homebrew)
   * "The Open Source Contributor Funnel" ([post](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/), [video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
