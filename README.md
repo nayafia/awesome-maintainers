@@ -17,7 +17,7 @@
   * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
-  * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))  
+  * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
 * [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer](https://github.com/dib-lab/khmer)
   * "Channeling Community Contributions to Scientific Software: A Sprint Experience" ([paper](https://doi.org/10.5334/jors.96))
   * "Walking the Talk: Adopting and Adapting Sustainable Scientific Software Development processes in a Small Biology Lab" ([paper](http://dx.doi.org/10.5334/jors.35))
@@ -120,6 +120,8 @@
   * "Crowdfunding Open Source (Vue.js)" ([interview](https://changelog.com/rfc/12))
   * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
   * "The Journey to Full Time Open Source" ([video](https://www.youtube.com/watch?v=SXjA1aIM35E))
+* [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
+  * "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 
 ## Contributing
 
