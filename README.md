@@ -29,6 +29,8 @@
   * "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) and others
   * "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
+* [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
+  * "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 * [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
   * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
   * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
@@ -120,8 +122,6 @@
   * "Crowdfunding Open Source (Vue.js)" ([interview](https://changelog.com/rfc/12))
   * "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
   * "The Journey to Full Time Open Source" ([video](https://www.youtube.com/watch?v=SXjA1aIM35E))
-* [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
-  * "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 
 ## Contributing
 
