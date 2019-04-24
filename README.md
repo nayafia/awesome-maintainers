@@ -17,7 +17,7 @@
   * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
-  * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))  
+  * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
 * [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer](https://github.com/dib-lab/khmer)
   * "Channeling Community Contributions to Scientific Software: A Sprint Experience" ([paper](https://doi.org/10.5334/jors.96))
   * "Walking the Talk: Adopting and Adapting Sustainable Scientific Software Development processes in a Small Biology Lab" ([paper](http://dx.doi.org/10.5334/jors.35))
@@ -29,6 +29,8 @@
   * "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) and others
   * "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
+* [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
+  * "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 * [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
   * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
   * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
