@@ -41,6 +41,8 @@
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
 * [@fatih](https://github.com/fatih), [vim-go](https://github.com/fatih/vim-go)
   * "Taking an indefinite sabbatical from my projects" ([post](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/))
+* [@feross](http://github.com/feross), [WebTorrent](https://github.com/webtorrent/webtorrent)
+  * "What I learned from WebTorrent: Lessons learned from starting and running a P2P open source project" ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
 * [@fijal](https://github.com/fijal), [PyPy](https://github.com/pypy/)
   * "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 * [@FooBarWidget](https://github.com/FooBarWidget) & [@prototype](https://github.com/prototype), [Phusion Passenger](https://github.com/phusion)
