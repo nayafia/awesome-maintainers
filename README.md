@@ -89,6 +89,7 @@
 * [@mikeal](https://github.com/mikeal), [request](https://github.com/request/request/)
   * "Request's Past, Present and Future" ([post](https://github.com/request/request/issues/3142))
 * [@MikeMcQuaid](https://github.com/MikeMcQuaid), [Homebrew](https://github.com/Homebrew)
+  * "Research Study Interview: The Work of Maintaining Open Source Software" ([post](https://mikemcquaid.com/2019/05/20/research-study-interview-work-of-maintaining-open-source-software/))
   * "The Open Source Contributor Funnel" ([post](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/), [video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
