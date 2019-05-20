@@ -5,6 +5,8 @@
   * "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
 * [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli)
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
+* [@antirez](https://github.com/antirez), [Redis](https://github.com/antirez/redis)
+  * "The struggles of an open source maintainer" ([post](http://antirez.com/news/129))
 * [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs)
   * "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
 * [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya)
