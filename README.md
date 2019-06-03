@@ -18,6 +18,8 @@
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
   * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
+* [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic), [npm](https://github.com/npm/cli)
+  * "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
   * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
 * [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer](https://github.com/dib-lab/khmer)
