@@ -29,6 +29,8 @@
 * [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
   * "Maintainers Don't Scale" ([video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))
   * "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
+* [@dhh](https://github.com/dhh), [Rails](https://github.com/rails)
+  * "Open source beyond the market" ([video](https://www.youtube.com/watch?v=VBwWbFpkltg), [post](https://m.signalvnoise.com/open-source-beyond-the-market/))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) and others
   * "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
 * [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
