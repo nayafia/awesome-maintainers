@@ -78,7 +78,7 @@
 * [@jodosha](https://github.com/jodosha), [Hanami](https://github.com/hanami)
   * "Lessons Learned While Building Hanami" ([video](https://www.youtube.com/watch?v=0RyitUKfUFE), [slides](https://speakerdeck.com/jodosha/lessons-learned-while-building-hanami))
 * [@kelset](https://github.com/kelset), [React Native](https://github.com/facebook/react-native)
-  * "All Hands on Deck: The React Native Community Experience" ([video](https://youtu.be/OVzMw3vYrDI))
+  * "All Hands on Deck: The React Native Community Experience" ([video](https://youtu.be/OVzMw3vYrDI), [slides](https://speakerdeck.com/kelset/all-hands-on-deck-the-rn-community-experience))
 * [@kennethreitz](https://github.com/kennethreitz), [requests](https://github.com/requests/requests)
   * "The Reality of Developer Burnout" ([post](https://www.kennethreitz.org/essays/the-reality-of-developer-burnout))
 * [@kentcdodds](https://github.com/kentcdodds), [various](https://github.com/kentcdodds)
