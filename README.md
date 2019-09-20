@@ -105,6 +105,8 @@
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
 * [@mxcl](https://github.com/mxcl), [Homebrew](https://github.com/Homebrew)
   * "Making Homebrew: The Genesis and Growth of a Global Open Source Project" ([video](https://www.youtube.com/watch?v=Q81q0LilL1s))
+* [@nathanmarz](https://github.com/nathanmarz), [Apache Storm](https://github.com/apache/storm)
+  * "History of Apache Storm and lessons learned" ([post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html))
 * [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb)
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
 * [@Schneems](https://github.com/Schneems), [Sprockets](https://github.com/rails/sprockets), [CodeTriage](https://www.codetriage.com)
