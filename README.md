@@ -105,6 +105,8 @@
   * "The Open Source Contributor Funnel" ([post](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/), [video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
+* [@mpdehaan](https://github.com/mpdehaan), [Ansible](https://github.com/ansible/ansible), [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
+  * "Michael DeHaan on creating Ansible and SourceOptics" ([interview](https://www.sourcesort.com/interview/michael-dehaan-on-creating-ansible-and-sourceoptics))
 * [@mxcl](https://github.com/mxcl), [Homebrew](https://github.com/Homebrew)
   * "Making Homebrew: The Genesis and Growth of a Global Open Source Project" ([video](https://www.youtube.com/watch?v=Q81q0LilL1s))
 * [@nathanmarz](https://github.com/nathanmarz), [Apache Storm](https://github.com/apache/storm)
