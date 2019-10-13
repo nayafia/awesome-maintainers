@@ -18,6 +18,8 @@
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
   * "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   * "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))
+* [@brianc](https://github.com/brianc), [node-postgres](https://github.com/brianc/node-postgres)
+  * "Creating and maintaining node-postres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
 * [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic), [npm](https://github.com/npm/cli)
   * "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
