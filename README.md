@@ -116,6 +116,8 @@
   * "History of Apache Storm and lessons learned" ([post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html))
 * [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb)
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
+* [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
+  * "Python Tutor Software Development Philosophy" ([video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
 * [@Schneems](https://github.com/Schneems), [Sprockets](https://github.com/rails/sprockets), [CodeTriage](https://www.codetriage.com)
   * "Saving Sprockets - What happens when a maintainer leaves" ([video](https://www.youtube.com/watch?v=qxaE8yblHPk), [post with transcript](https://www.schneems.com/2016/05/31/saving-sprockets.html))
 * [@sebmck](https://github.com/sebmck), [Babel](https://github.com/babel/babel)
