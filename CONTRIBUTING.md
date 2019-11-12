@@ -14,3 +14,5 @@ This list is sorted alphabetically by maintainer username. Sub-bullets are also 
 ```
 
 If they don't have a GitHub profile, or their project isn't on GitHub, link to the equivalent elsewhere. Links should point to their developer profile and repository over personal or project websites.
+
+Maximum 5 links per maintainer are permitted. If a maintainer already has the maximum number of links listed, your pull request should remove an existing link in order to make room for your contribution, with an explanation as to why you think it adds more value.
