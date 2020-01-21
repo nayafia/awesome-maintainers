@@ -22,6 +22,8 @@
   * "Why I took October off from OSS volunteering" ([post](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/))
 * [@brianc](https://github.com/brianc), [node-postgres](https://github.com/brianc/node-postgres)
   * "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
+* [@BurntSushi](https://github.com/BurntSushi), [Rust libraries](https://github.com/BurntSushi?tab=repositories)
+  * "My FOSS Story" ([post](https://blog.burntsushi.net/foss/))
 * [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic), [npm](https://github.com/npm/cli)
   * "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
