@@ -141,6 +141,8 @@
   * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
 * [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
   * "Maintainer Stories: Tim Graham" ([interview](https://github.com/open-source/stories/timgraham))
+* [@Trott](https://github.com/Trott), [slug](https://github.com/Trott/slug)
+  * "Slugging It Out In Open Source" ([audio](https://soundcloud.com/rich-trott/slugging-it-out-in-open-source), [transcript](https://medium.com/@Trott/slugging-it-out-in-open-source-a62f554b6e2))
 * [@vjeux](https://github.com/vjeux), [React Native](https://github.com/facebook/react-native), [Prettier](https://github.com/prettier/prettier)
   * "Being Successful at Open Source" ([video](https://www.youtube.com/watch?v=nRF0OVQL9Nw))
 * [@withoutboats](https://github.com/withoutboats), [Rust](https://github.com/rust-lang)
